@@ -1,0 +1,50 @@
+Find me a bakery.
+Locate a grocery store nearby.
+Find me a playground.
+Locate a convenience store.
+Show me a sushi restaurant.
+Find a burger place.
+Find me a park bench.
+Locate a public restroom.
+Find me a flower.
+Locate a gym.
+Find me a museum.
+Find me a post office.
+Show me a bus stop.
+Find a library.
+Locate a tennis court.
+Locate a souvenir shop.
+Find me a shoe store.
+Find me a playground.
+Find me a gaming cafe.
+Show me a bookstore.
+Locate a community center.
+Show me a coworking space.
+Find me a barbecue restaurant.
+Find me a fountain.
+Show me an art gallery.
+Locate a deli.
+Show me a historic landmark.
+Locate a watch repair shop.
+Find me a hiking trail entrance.
+Show me a bowling alley.
+Locate a food truck.
+Find me a cultural center.
+Show me a kids’ activity area.
+Locate a massage parlor.
+Show me an public park.
+Locate a statue.
+Find a traffic light.
+Find the  crosswalk.
+Find a fire hydrant.
+Find campus path
+Find a pen 
+Find a desk
+Find a desktop
+Find a sofa
+Find leafs
+Find forest
+Find a tree
+Find a couch
+Find a road sign
+Find a door

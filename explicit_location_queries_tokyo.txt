@@ -1,0 +1,50 @@
+Find me a subway station.  
+Locate a city hall.  
+Show me a courthouse.  
+Find a laundromat.  
+Locate a police station.  
+Find me a city park.  
+Locate a dog park.  
+Show me a hospital.  
+Find me a pharmacy.  
+Locate a bus terminal.  
+Show me an auto repair shop.  
+Find me a movie theater.  
+Locate a vegan restaurant.  
+Find me a public library.  
+Show me a stadium.  
+Locate a bakery.  
+Find me a café.  
+Locate a taco truck.  
+Show me a concert hall.  
+Find me a lounge bar.  
+Locate a shoe repair shop.  
+Show me a city monument.  
+Find me a bank.  
+Locate a pedestrian bridge.  
+Find me a busy intersection.  
+Locate a used bookstore.  
+Show me a historical district.  
+Find me a nightclub.  
+Locate a comedy club.  
+Show me a tattoo parlor.  
+Find me a hair salon.  
+Locate a farmers market.  
+Show me an electronics store.  
+Find me a carnival area.  
+Locate a florist.  
+Show me a photography studio.  
+Find me a wine bar.  
+Locate a car wash.  
+Show me a bus station.  
+Find me a hardware store.  
+Locate a printing shop.  
+Find me a fire station.  
+Locate a community garden.  
+Show me a rooftop bar.  
+Find me a fancy restaurant.  
+Locate a music shop.  
+Find me a pet grooming salon.  
+Locate a brewery.  
+Show me a city lookout point.  
+Find me a coworking space.
